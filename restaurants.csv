@@ -1,0 +1,1001 @@
+id,restaurant,category,price_tier,neighborhood,opening_hour,closing_hour,average_rating,good_for_kids
+1,Bitchip,Azerbaijan,expensive,Financial District,10:00,21:00,3,true
+2,Holdlamis,Macedonia,cheap,Flatiron District,10:00,21:00,2,true
+3,Lotstring,China,cheap,Brooklyn Heights,10:00,21:00,3,false
+4,Cardify,Ukraine,expensive,Columbia Street Waterfront District,10:00,21:00,3,false
+5,Mat Lam Tam,China,medium,Queensbridge,10:00,21:00,4,true
+6,Alphazap,Mongolia,cheap,Gowanus,10:00,21:00,2,false
+7,Flexidy,Brazil,cheap,Williamsburg,10:00,21:00,2,true
+8,Tempsoft,United States,medium,SoHo,10:00,21:00,4,true
+9,Zamit,China,medium,Red Hook,10:00,21:00,2,false
+10,Redhold,China,cheap,Greenpoint,10:00,21:00,5,false
+11,Fix San,Poland,cheap,Upper East Side,10:00,21:00,1,false
+12,Vagram,China,expensive,East Harlem,10:00,21:00,4,true
+13,Cardguard,Indonesia,medium,Little Italy,10:00,21:00,1,true
+14,Zontrax,Japan,medium,Park Slope,10:00,21:00,1,false
+15,Zoolab,Botswana,medium,East Harlem,10:00,21:00,4,true
+16,Quo Lux,Poland,expensive,East Harlem,10:00,21:00,3,false
+17,Aerified,Ireland,cheap,Columbia Street Waterfront District,10:00,21:00,2,true
+18,Fix San,United States,expensive,Greenpoint,10:00,21:00,5,true
+19,Redhold,Sweden,expensive,Long Island City,10:00,21:00,4,true
+20,Solarbreeze,Sweden,expensive,Koreatown,10:00,21:00,5,true
+21,Overhold,Venezuela,expensive,East Harlem,10:00,21:00,3,true
+22,Duobam,Sweden,medium,Long Island City,10:00,21:00,4,true
+23,Tempsoft,Philippines,expensive,Kips Bay,10:00,21:00,3,true
+24,Aerified,Kosovo,medium,SoHo,10:00,21:00,2,true
+25,Tres-Zap,Japan,medium,Upper East Side,10:00,21:00,3,true
+26,Tres-Zap,Canada,medium,Flushing,10:00,21:00,4,false
+27,Cardguard,Portugal,medium,Tribeca,10:00,21:00,5,false
+28,Vagram,Poland,expensive,Inwood,10:00,21:00,5,false
+29,Zaam-Dox,Sweden,expensive,Inwood,10:00,21:00,2,true
+30,Stronghold,Guatemala,medium,Carroll Gardens,10:00,21:00,3,false
+31,Aerified,China,expensive,Queensbridge,10:00,21:00,1,false
+32,Matsoft,Portugal,cheap,Koreatown,10:00,21:00,5,false
+33,Matsoft,Japan,medium,Columbia Street Waterfront District,10:00,21:00,1,true
+34,Temp,Egypt,cheap,SoHo,10:00,21:00,4,true
+35,Tres-Zap,Colombia,medium,Kips Bay,10:00,21:00,4,true
+36,Tempsoft,China,medium,Queensbridge,10:00,21:00,3,false
+37,Aerified,Sweden,expensive,Two Bridges,10:00,21:00,4,true
+38,Hatity,Serbia,medium,Astoria,10:00,21:00,3,false
+39,Lotlux,United States,expensive,Jackson Heights,10:00,21:00,1,false
+40,Mat Lam Tam,Kyrgyzstan,expensive,Stuyvesant Town,10:00,21:00,3,false
+41,Stronghold,Uzbekistan,medium,Ridgewood,10:00,21:00,3,false
+42,Fintone,Philippines,cheap,Boerum Hill,10:00,21:00,2,false
+43,Fix San,France,expensive,Long Island City,10:00,21:00,4,true
+44,Konklab,China,cheap,Carroll Gardens,10:00,21:00,3,true
+45,Tampflex,China,medium,Yorkville,10:00,21:00,3,false
+46,Mat Lam Tam,Australia,medium,Flatiron District,10:00,21:00,5,false
+47,Stringtough,Philippines,cheap,Flushing,10:00,21:00,4,true
+48,Cardguard,Sweden,medium,Midtown,10:00,21:00,1,true
+49,Viva,Canada,expensive,Boerum Hill,10:00,21:00,4,false
+50,Fixflex,Poland,cheap,Two Bridges,10:00,21:00,5,true
+51,Duobam,Czech Republic,expensive,Morningside Heights,10:00,21:00,5,false
+52,Lotlux,Mexico,cheap,Stuyvesant Town,10:00,21:00,5,true
+53,Transcof,Jordan,medium,Carroll Gardens,10:00,21:00,5,false
+54,Quo Lux,Sweden,medium,Astoria,10:00,21:00,1,false
+55,Zaam-Dox,Philippines,medium,Carroll Gardens,10:00,21:00,3,true
+56,Stronghold,Czech Republic,cheap,Astoria,10:00,21:00,3,true
+57,Tempsoft,Guatemala,medium,SoHo,10:00,21:00,1,false
+58,Mat Lam Tam,France,cheap,DUMBO,10:00,21:00,5,true
+59,Fix San,China,expensive,Jackson Heights,10:00,21:00,5,true
+60,Flowdesk,Czech Republic,cheap,Midtown,10:00,21:00,2,false
+61,Trippledex,Norway,cheap,Upper West Side,10:00,21:00,1,true
+62,Subin,Russia,expensive,Sunset Park,10:00,21:00,3,false
+63,Lotstring,Norway,cheap,Upper East Side,10:00,21:00,2,false
+64,Matsoft,Indonesia,expensive,Red Hook,10:00,21:00,3,false
+65,Mat Lam Tam,Poland,medium,Morningside Heights,10:00,21:00,1,false
+66,Ventosanzap,Uruguay,medium,Prospect Heights,10:00,21:00,5,true
+67,Bigtax,Papua New Guinea,medium,Flatiron District,10:00,21:00,1,true
+68,Tin,Mexico,medium,Ridgewood,10:00,21:00,5,false
+69,Redhold,Peru,expensive,Battery Park City,10:00,21:00,2,false
+70,Veribet,Russia,cheap,Yorkville,10:00,21:00,3,true
+71,Ronstring,Zambia,expensive,Carroll Gardens,10:00,21:00,5,false
+72,Aerified,Poland,expensive,Bronx Park,10:00,21:00,1,false
+73,Quo Lux,China,expensive,Gowanus,10:00,21:00,2,false
+74,Zamit,Guatemala,expensive,Little Italy,10:00,21:00,4,false
+75,Subin,Ukraine,cheap,Long Island City,10:00,21:00,4,true
+76,Hatity,France,cheap,Murray Hill,10:00,21:00,2,true
+77,Daltfresh,China,medium,Upper East Side,10:00,21:00,5,true
+78,Hatity,China,medium,Williamsburg,10:00,21:00,4,true
+79,Tin,Mauritius,expensive,Coney Island,10:00,21:00,4,false
+80,Veribet,North Korea,medium,Yorkville,10:00,21:00,5,false
+81,Regrant,China,cheap,Greenpoint,10:00,21:00,5,true
+82,Bigtax,Ghana,cheap,Flatiron District,10:00,21:00,1,false
+83,Biodex,Peru,expensive,Astoria,10:00,21:00,2,true
+84,Greenlam,Indonesia,medium,Brooklyn Heights,10:00,21:00,4,true
+85,Fintone,Norway,expensive,Upper West Side,10:00,21:00,2,false
+86,Voyatouch,Canada,cheap,Red Hook,10:00,21:00,3,true
+87,Viva,Uzbekistan,expensive,Fort Greene,10:00,21:00,4,false
+88,Daltfresh,Madagascar,medium,Windsor Terrace,10:00,21:00,3,true
+89,Biodex,Indonesia,medium,Jamaica,10:00,21:00,1,false
+90,Biodex,Nicaragua,expensive,Fort Greene,10:00,21:00,1,true
+91,Regrant,Bosnia and Herzegovina,expensive,Upper East Side,10:00,21:00,3,false
+92,Treeflex,Sweden,expensive,Ridgewood,10:00,21:00,2,false
+93,Flexidy,Zambia,medium,Red Hook,10:00,21:00,3,true
+94,Redhold,Indonesia,medium,St. George,10:00,21:00,5,false
+95,Zathin,China,cheap,Battery Park City,10:00,21:00,3,true
+96,Domainer,China,medium,Columbia Street Waterfront District,10:00,21:00,5,false
+97,Fixflex,Russia,cheap,Flatiron District,10:00,21:00,2,false
+98,Regrant,Russia,medium,West Village,10:00,21:00,1,false
+99,Viva,Burundi,cheap,Hell's Kitchen,10:00,21:00,1,false
+100,Alphazap,Russia,medium,Inwood,10:00,21:00,5,true
+101,Holdlamis,Russia,medium,Tribeca,10:00,21:00,1,false
+102,Job,Russia,medium,Astoria,10:00,21:00,4,true
+103,Regrant,Moldova,medium,Gowanus,10:00,21:00,2,false
+104,Solarbreeze,Peru,medium,Battery Park City,10:00,21:00,5,true
+105,Pannier,Russia,expensive,Harlem,10:00,21:00,2,false
+106,Overhold,Russia,medium,Sunset Park,10:00,21:00,4,true
+107,Andalax,Brazil,expensive,Nolita,10:00,21:00,1,false
+108,Job,Greece,cheap,Long Island City,10:00,21:00,5,false
+109,Y-find,Germany,medium,Astoria,10:00,21:00,4,false
+110,Ventosanzap,China,cheap,Tribeca,10:00,21:00,3,false
+111,Tampflex,Russia,expensive,Red Hook,10:00,21:00,4,true
+112,Sonsing,China,medium,South Slope,10:00,21:00,4,true
+113,Greenlam,China,medium,Fort Greene,10:00,21:00,3,true
+114,Temp,Tajikistan,cheap,Carroll Gardens,10:00,21:00,2,false
+115,Veribet,Zambia,expensive,Jamaica,10:00,21:00,3,true
+116,Rank,Philippines,medium,Sunset Park,10:00,21:00,4,true
+117,Matsoft,Japan,cheap,Koreatown,10:00,21:00,5,false
+118,Job,Pakistan,expensive,Windsor Terrace,10:00,21:00,1,false
+119,Voyatouch,Philippines,cheap,Greenpoint,10:00,21:00,2,true
+120,Zamit,Egypt,medium,Boerum Hill,10:00,21:00,2,true
+121,Zathin,China,medium,Long Island City,10:00,21:00,4,false
+122,Stronghold,Venezuela,medium,Columbia Street Waterfront District,10:00,21:00,4,false
+123,Tampflex,Indonesia,expensive,Nolita,10:00,21:00,5,false
+124,Aerified,China,expensive,Morningside Heights,10:00,21:00,4,true
+125,Tresom,Spain,expensive,Stuyvesant Town,10:00,21:00,3,true
+126,Y-Solowarm,Ivory Coast,cheap,Little Italy,10:00,21:00,2,true
+127,Span,China,expensive,NoHo,10:00,21:00,2,false
+128,Hatity,Portugal,cheap,Prospect Heights,10:00,21:00,2,false
+129,Alphazap,Iran,medium,Tribeca,10:00,21:00,3,true
+130,Bytecard,Portugal,cheap,Queensbridge,10:00,21:00,3,true
+131,Namfix,Vietnam,cheap,Flushing,10:00,21:00,2,true
+132,Toughjoyfax,Nigeria,cheap,Nolita,10:00,21:00,4,false
+133,Fix San,Indonesia,medium,Upper East Side,10:00,21:00,4,true
+134,Konklab,China,expensive,Financial District,10:00,21:00,4,false
+135,Bamity,Portugal,cheap,Morningside Heights,10:00,21:00,3,false
+136,Alphazap,United States,cheap,NoHo,10:00,21:00,2,true
+137,Regrant,China,cheap,Lower East Side,10:00,21:00,5,true
+138,Subin,Peru,medium,Bronx Park,10:00,21:00,1,true
+139,Bitchip,Poland,cheap,Chinatown,10:00,21:00,1,false
+140,It,Belarus,medium,Jackson Heights,10:00,21:00,4,false
+141,Holdlamis,Lithuania,cheap,South Slope,10:00,21:00,2,true
+142,Cookley,Poland,expensive,Jackson Heights,10:00,21:00,2,true
+143,Alpha,Philippines,cheap,Midtown,10:00,21:00,4,false
+144,Stronghold,Colombia,cheap,Greenpoint,10:00,21:00,4,false
+145,Opela,Belarus,expensive,Inwood,10:00,21:00,4,true
+146,Sub-Ex,China,expensive,Coney Island,10:00,21:00,5,true
+147,Lotstring,Russia,expensive,Chinatown,10:00,21:00,5,true
+148,Alpha,Czech Republic,cheap,Cobble Hill,10:00,21:00,1,true
+149,Stringtough,France,cheap,Coney Island,10:00,21:00,1,false
+150,Veribet,China,expensive,Two Bridges,10:00,21:00,4,true
+151,Quo Lux,China,medium,Flushing,10:00,21:00,2,true
+152,Holdlamis,Philippines,medium,Red Hook,10:00,21:00,3,false
+153,Tresom,Poland,medium,Inwood,10:00,21:00,5,false
+154,Otcom,Colombia,expensive,Midtown,10:00,21:00,4,false
+155,Greenlam,France,expensive,Sunset Park,10:00,21:00,1,false
+156,Flowdesk,Canada,expensive,Sunset Park,10:00,21:00,4,true
+157,Cardguard,France,cheap,Prospect Heights,10:00,21:00,2,true
+158,Bitchip,Kuwait,expensive,Murray Hill,10:00,21:00,4,true
+159,Rank,Cuba,expensive,Two Bridges,10:00,21:00,2,true
+160,Bitchip,Peru,expensive,Carroll Gardens,10:00,21:00,2,false
+161,Duobam,China,cheap,Inwood,10:00,21:00,4,false
+162,Matsoft,China,expensive,Prospect Heights,10:00,21:00,5,true
+163,Aerified,United States,expensive,Inwood,10:00,21:00,1,true
+164,Latlux,China,cheap,Meatpacking District,10:00,21:00,5,true
+165,Fixflex,Russia,expensive,Bronx Park,10:00,21:00,5,true
+166,Alphazap,Russia,expensive,East Harlem,10:00,21:00,4,false
+167,Namfix,Russia,medium,Flatiron District,10:00,21:00,5,true
+168,Tempsoft,Brazil,medium,Jackson Heights,10:00,21:00,1,true
+169,Regrant,Brazil,medium,Ridgewood,10:00,21:00,3,true
+170,Latlux,Luxembourg,medium,Carroll Gardens,10:00,21:00,4,true
+171,Veribet,Poland,expensive,Windsor Terrace,10:00,21:00,4,true
+172,Zaam-Dox,Canada,medium,Financial District,10:00,21:00,1,true
+173,Konklux,Philippines,medium,Fort Greene,10:00,21:00,2,true
+174,Konklab,China,medium,Bed-Stuy,10:00,21:00,4,false
+175,Flowdesk,Venezuela,expensive,Tribeca,10:00,21:00,3,false
+176,Home Ing,Tanzania,medium,Murray Hill,10:00,21:00,2,false
+177,Stim,Sweden,medium,Red Hook,10:00,21:00,1,true
+178,Ronstring,Indonesia,expensive,Meatpacking District,10:00,21:00,3,true
+179,Zamit,Indonesia,cheap,Murray Hill,10:00,21:00,3,true
+180,Kanlam,China,expensive,Gowanus,10:00,21:00,3,false
+181,Fintone,Brazil,expensive,SoHo,10:00,21:00,2,false
+182,Gembucket,Indonesia,expensive,Greenpoint,10:00,21:00,4,false
+183,Tin,Germany,expensive,Gowanus,10:00,21:00,1,false
+184,Toughjoyfax,Philippines,medium,Astoria,10:00,21:00,5,true
+185,Greenlam,China,expensive,Tribeca,10:00,21:00,1,true
+186,Duobam,Vietnam,medium,Nolita,10:00,21:00,5,true
+187,Zoolab,Vietnam,medium,Two Bridges,10:00,21:00,4,false
+188,Cardguard,Brazil,cheap,Financial District,10:00,21:00,5,true
+189,Hatity,Brazil,medium,Kips Bay,10:00,21:00,3,false
+190,Kanlam,Kenya,expensive,Lower East Side,10:00,21:00,4,true
+191,Trippledex,France,expensive,Yorkville,10:00,21:00,3,true
+192,Redhold,Kazakhstan,medium,Kips Bay,10:00,21:00,2,true
+193,Lotstring,Armenia,expensive,Astoria,10:00,21:00,4,false
+194,Daltfresh,Philippines,medium,Two Bridges,10:00,21:00,3,false
+195,Temp,Panama,medium,Little Italy,10:00,21:00,2,true
+196,Domainer,Paraguay,expensive,Tribeca,10:00,21:00,1,false
+197,Lotstring,Benin,expensive,Battery Park City,10:00,21:00,5,true
+198,Flowdesk,Guatemala,medium,Coney Island,10:00,21:00,3,false
+199,Daltfresh,Ukraine,expensive,Park Slope,10:00,21:00,5,true
+200,Bamity,France,cheap,Cobble Hill,10:00,21:00,2,true
+201,Overhold,China,expensive,Gowanus,10:00,21:00,5,true
+202,Lotlux,Philippines,cheap,Gowanus,10:00,21:00,1,true
+203,Stronghold,Russia,cheap,SoHo,10:00,21:00,1,true
+204,Treeflex,Sweden,medium,Battery Park City,10:00,21:00,4,true
+205,Flexidy,Nicaragua,medium,Boerum Hill,10:00,21:00,3,true
+206,Bigtax,Dominican Republic,expensive,Sunset Park,10:00,21:00,1,false
+207,Mat Lam Tam,Russia,cheap,Bed-Stuy,10:00,21:00,4,false
+208,Tres-Zap,Finland,expensive,Red Hook,10:00,21:00,4,true
+209,Opela,China,cheap,East Harlem,10:00,21:00,1,true
+210,It,Japan,expensive,Financial District,10:00,21:00,5,true
+211,Transcof,Indonesia,cheap,Murray Hill,10:00,21:00,3,false
+212,Opela,Philippines,expensive,Cobble Hill,10:00,21:00,5,true
+213,Namfix,Russia,expensive,Koreatown,10:00,21:00,5,true
+214,Fintone,Ukraine,cheap,Midtown,10:00,21:00,4,true
+215,Mat Lam Tam,Portugal,medium,Kips Bay,10:00,21:00,4,false
+216,Tampflex,Portugal,medium,SoHo,10:00,21:00,4,false
+217,Temp,China,medium,Yorkville,10:00,21:00,4,false
+218,Transcof,Finland,medium,Murray Hill,10:00,21:00,2,true
+219,Zontrax,Guatemala,cheap,DUMBO,10:00,21:00,5,false
+220,Sub-Ex,China,expensive,Morningside Heights,10:00,21:00,4,true
+221,Greenlam,China,medium,Financial District,10:00,21:00,2,true
+222,Pannier,China,cheap,East Village,10:00,21:00,1,false
+223,Cardguard,Canada,medium,Little Italy,10:00,21:00,4,false
+224,Voyatouch,Canada,medium,Cobble Hill,10:00,21:00,2,true
+225,Tresom,Iran,medium,Yorkville,10:00,21:00,5,true
+226,Bitchip,Pakistan,cheap,Meatpacking District,10:00,21:00,2,true
+227,Toughjoyfax,Philippines,medium,Gowanus,10:00,21:00,2,true
+228,Bamity,Finland,cheap,Windsor Terrace,10:00,21:00,5,false
+229,Gembucket,China,cheap,Financial District,10:00,21:00,5,true
+230,Quo Lux,France,cheap,Sunset Park,10:00,21:00,4,false
+231,Solarbreeze,South Korea,expensive,Battery Park City,10:00,21:00,5,true
+232,Konklux,Burkina Faso,medium,Brooklyn Heights,10:00,21:00,5,false
+233,Flexidy,Kazakhstan,cheap,West Village,10:00,21:00,2,true
+234,Namfix,Cape Verde,medium,Flushing,10:00,21:00,4,true
+235,Zathin,China,cheap,Upper West Side,10:00,21:00,5,false
+236,Andalax,China,expensive,Coney Island,10:00,21:00,2,false
+237,Voltsillam,France,cheap,Hell's Kitchen,10:00,21:00,5,true
+238,Biodex,Indonesia,expensive,Upper East Side,10:00,21:00,4,false
+239,Alphazap,Brazil,cheap,Inwood,10:00,21:00,3,false
+240,Lotstring,China,medium,Park Slope,10:00,21:00,1,true
+241,Alphazap,Russia,medium,Tribeca,10:00,21:00,5,true
+242,Flexidy,French Polynesia,cheap,St. George,10:00,21:00,3,true
+243,Zontrax,South Africa,expensive,Bronx Park,10:00,21:00,4,true
+244,Sonair,Colombia,expensive,West Village,10:00,21:00,1,true
+245,Domainer,China,expensive,Long Island City,10:00,21:00,5,false
+246,Tampflex,Portugal,cheap,Queensbridge,10:00,21:00,4,true
+247,Bigtax,China,expensive,Prospect Heights,10:00,21:00,4,false
+248,Veribet,Russia,expensive,Columbia Street Waterfront District,10:00,21:00,4,true
+249,Konklux,Indonesia,expensive,Brooklyn Heights,10:00,21:00,4,true
+250,Fixflex,China,expensive,Upper West Side,10:00,21:00,1,false
+251,Voyatouch,Guatemala,cheap,Coney Island,10:00,21:00,1,false
+252,Holdlamis,Macedonia,medium,Jamaica,10:00,21:00,2,true
+253,Stim,Czech Republic,cheap,Jackson Heights,10:00,21:00,3,true
+254,Tresom,Uruguay,medium,Coney Island,10:00,21:00,2,true
+255,Domainer,Spain,cheap,Meatpacking District,10:00,21:00,1,true
+256,Daltfresh,Czech Republic,cheap,Battery Park City,10:00,21:00,4,false
+257,Tres-Zap,Czech Republic,medium,Bronx Park,10:00,21:00,3,false
+258,Tampflex,Peru,expensive,Hell's Kitchen,10:00,21:00,3,false
+259,Y-Solowarm,China,expensive,Park Slope,10:00,21:00,3,false
+260,Temp,Palestinian Territory,expensive,Flushing,10:00,21:00,3,false
+261,Fix San,Japan,cheap,Two Bridges,10:00,21:00,5,true
+262,Y-Solowarm,Indonesia,cheap,Brooklyn Heights,10:00,21:00,5,false
+263,Ventosanzap,Portugal,cheap,Prospect Heights,10:00,21:00,1,true
+264,Y-Solowarm,Morocco,expensive,Coney Island,10:00,21:00,1,true
+265,Trippledex,Indonesia,expensive,Fort Greene,10:00,21:00,2,false
+266,Kanlam,Indonesia,cheap,Queensbridge,10:00,21:00,3,false
+267,Zontrax,Philippines,expensive,Coney Island,10:00,21:00,2,true
+268,Bitwolf,China,medium,Astoria,10:00,21:00,1,true
+269,Overhold,Philippines,medium,Long Island City,10:00,21:00,5,false
+270,Voyatouch,Mexico,cheap,West Village,10:00,21:00,1,true
+271,Transcof,Mexico,medium,Carroll Gardens,10:00,21:00,4,false
+272,Pannier,Philippines,medium,Red Hook,10:00,21:00,4,false
+273,Duobam,Indonesia,medium,Bronx Park,10:00,21:00,5,true
+274,Span,Brazil,expensive,NoHo,10:00,21:00,1,false
+275,Zathin,Poland,cheap,Hell's Kitchen,10:00,21:00,3,true
+276,Rank,Mexico,expensive,Hell's Kitchen,10:00,21:00,1,false
+277,Quo Lux,Yemen,medium,Sunset Park,10:00,21:00,4,true
+278,Fintone,China,medium,Hell's Kitchen,10:00,21:00,2,true
+279,Transcof,Sudan,cheap,Hell's Kitchen,10:00,21:00,3,false
+280,Span,Portugal,expensive,Red Hook,10:00,21:00,3,true
+281,Daltfresh,United States,cheap,Harlem,10:00,21:00,5,false
+282,Y-find,China,expensive,Morningside Heights,10:00,21:00,4,false
+283,Otcom,Thailand,expensive,Cobble Hill,10:00,21:00,3,true
+284,Subin,Indonesia,expensive,South Slope,10:00,21:00,2,false
+285,Zathin,France,medium,St. George,10:00,21:00,1,false
+286,Fix San,Mongolia,cheap,Park Slope,10:00,21:00,3,true
+287,Zaam-Dox,China,expensive,Windsor Terrace,10:00,21:00,3,false
+288,Bitwolf,Russia,cheap,SoHo,10:00,21:00,3,true
+289,Cookley,Brazil,expensive,Fort Greene,10:00,21:00,2,false
+290,Fix San,Brazil,cheap,NoHo,10:00,21:00,2,true
+291,Cardify,Czech Republic,cheap,Midtown,10:00,21:00,1,true
+292,Voyatouch,Mexico,expensive,Coney Island,10:00,21:00,1,false
+293,Stim,China,cheap,SoHo,10:00,21:00,5,false
+294,Konklux,Czech Republic,expensive,Ridgewood,10:00,21:00,4,true
+295,Prodder,Thailand,expensive,Inwood,10:00,21:00,5,false
+296,Zontrax,Portugal,medium,DUMBO,10:00,21:00,5,false
+297,Ventosanzap,Indonesia,medium,Stuyvesant Town,10:00,21:00,5,true
+298,Opela,Brazil,medium,Greenpoint,10:00,21:00,3,false
+299,Duobam,Portugal,expensive,West Village,10:00,21:00,5,true
+300,Solarbreeze,Bulgaria,expensive,Harlem,10:00,21:00,2,false
+301,Job,China,cheap,Financial District,10:00,21:00,5,true
+302,Fintone,Brazil,medium,Prospect Heights,10:00,21:00,3,false
+303,Asoka,Philippines,cheap,Cobble Hill,10:00,21:00,2,true
+304,Zathin,Portugal,cheap,SoHo,10:00,21:00,5,true
+305,Transcof,China,cheap,Fort Greene,10:00,21:00,1,true
+306,Zaam-Dox,New Zealand,cheap,Koreatown,10:00,21:00,5,true
+307,Greenlam,China,cheap,Kips Bay,10:00,21:00,1,false
+308,Bytecard,Uruguay,expensive,Red Hook,10:00,21:00,1,false
+309,Quo Lux,Serbia,expensive,Red Hook,10:00,21:00,2,false
+310,Otcom,Sweden,medium,Meatpacking District,10:00,21:00,4,true
+311,Pannier,Japan,medium,Brooklyn Heights,10:00,21:00,1,false
+312,Zontrax,Brazil,cheap,Meatpacking District,10:00,21:00,1,false
+313,Greenlam,China,cheap,DUMBO,10:00,21:00,1,true
+314,Matsoft,Russia,medium,Bronx Park,10:00,21:00,5,false
+315,Flowdesk,Indonesia,medium,Upper West Side,10:00,21:00,4,true
+316,Prodder,China,cheap,Harlem,10:00,21:00,4,true
+317,Matsoft,Mongolia,medium,Fort Greene,10:00,21:00,3,false
+318,Viva,Indonesia,medium,Jamaica,10:00,21:00,2,true
+319,Zontrax,Czech Republic,medium,Carroll Gardens,10:00,21:00,4,true
+320,Otcom,Mauritius,expensive,Red Hook,10:00,21:00,1,false
+321,Solarbreeze,Mongolia,expensive,Financial District,10:00,21:00,1,false
+322,Lotstring,Brazil,medium,West Village,10:00,21:00,1,false
+323,It,Sweden,cheap,Lower East Side,10:00,21:00,2,false
+324,Rank,Croatia,medium,St. George,10:00,21:00,5,true
+325,Bytecard,Syria,expensive,Park Slope,10:00,21:00,5,true
+326,Domainer,China,cheap,Stuyvesant Town,10:00,21:00,4,false
+327,Aerified,China,medium,Sunset Park,10:00,21:00,3,false
+328,Ronstring,Mexico,cheap,Flushing,10:00,21:00,3,true
+329,Tin,Russia,expensive,Fort Greene,10:00,21:00,3,true
+330,Sonair,Indonesia,cheap,Windsor Terrace,10:00,21:00,2,false
+331,Span,Philippines,cheap,Midtown,10:00,21:00,1,true
+332,Andalax,Philippines,medium,DUMBO,10:00,21:00,4,false
+333,Y-find,Ukraine,cheap,Boerum Hill,10:00,21:00,3,false
+334,Bytecard,France,medium,Queensbridge,10:00,21:00,1,true
+335,Stim,China,medium,Financial District,10:00,21:00,3,false
+336,Cookley,Pakistan,medium,Murray Hill,10:00,21:00,1,true
+337,Cardguard,Dominican Republic,cheap,Queensbridge,10:00,21:00,2,true
+338,Tres-Zap,China,medium,Tribeca,10:00,21:00,4,true
+339,Holdlamis,Myanmar,cheap,Tribeca,10:00,21:00,5,true
+340,Konklab,Namibia,medium,DUMBO,10:00,21:00,2,true
+341,Biodex,Iran,medium,Coney Island,10:00,21:00,1,true
+342,Subin,Indonesia,medium,Prospect Heights,10:00,21:00,4,false
+343,Greenlam,China,cheap,Williamsburg,10:00,21:00,3,true
+344,Stringtough,Brazil,cheap,DUMBO,10:00,21:00,3,true
+345,Stim,Armenia,medium,Ridgewood,10:00,21:00,5,false
+346,Holdlamis,China,expensive,Nolita,10:00,21:00,3,true
+347,Domainer,China,cheap,Financial District,10:00,21:00,3,false
+348,Stronghold,Portugal,expensive,Bronx Park,10:00,21:00,4,true
+349,Alpha,France,expensive,Lower East Side,10:00,21:00,2,false
+350,Zaam-Dox,Haiti,expensive,Kips Bay,10:00,21:00,4,false
+351,Sonsing,France,expensive,Jamaica,10:00,21:00,1,false
+352,Subin,Russia,cheap,Cobble Hill,10:00,21:00,2,false
+353,Stronghold,Czech Republic,medium,Fort Greene,10:00,21:00,3,false
+354,Temp,China,medium,Bronx Park,10:00,21:00,5,true
+355,Toughjoyfax,China,medium,Stuyvesant Town,10:00,21:00,1,true
+356,Solarbreeze,China,cheap,Stuyvesant Town,10:00,21:00,2,true
+357,Domainer,Brazil,expensive,Morningside Heights,10:00,21:00,2,true
+358,Trippledex,Russia,expensive,Financial District,10:00,21:00,1,false
+359,Tempsoft,Honduras,medium,Morningside Heights,10:00,21:00,2,false
+360,Holdlamis,Japan,expensive,Upper East Side,10:00,21:00,4,true
+361,Holdlamis,Vietnam,medium,Carroll Gardens,10:00,21:00,3,false
+362,Voyatouch,Poland,expensive,Astoria,10:00,21:00,4,true
+363,Lotstring,Indonesia,expensive,Koreatown,10:00,21:00,2,true
+364,Tampflex,Bosnia and Herzegovina,expensive,Chinatown,10:00,21:00,5,true
+365,Hatity,Indonesia,cheap,Financial District,10:00,21:00,5,false
+366,Tresom,Peru,cheap,East Harlem,10:00,21:00,2,true
+367,Fixflex,China,medium,NoHo,10:00,21:00,5,true
+368,Transcof,Indonesia,expensive,Inwood,10:00,21:00,3,true
+369,Bytecard,Bosnia and Herzegovina,medium,Astoria,10:00,21:00,3,true
+370,Lotlux,Ukraine,medium,St. George,10:00,21:00,5,true
+371,Veribet,Brazil,cheap,Red Hook,10:00,21:00,4,true
+372,Pannier,Peru,cheap,Gowanus,10:00,21:00,4,false
+373,Trippledex,Indonesia,cheap,Williamsburg,10:00,21:00,2,false
+374,Span,Russia,cheap,Long Island City,10:00,21:00,4,true
+375,Transcof,Brazil,expensive,Long Island City,10:00,21:00,5,false
+376,Konklux,Sweden,cheap,Carroll Gardens,10:00,21:00,5,true
+377,Mat Lam Tam,Vietnam,cheap,Cobble Hill,10:00,21:00,4,true
+378,Ventosanzap,Uruguay,medium,Fort Greene,10:00,21:00,5,true
+379,Alpha,Portugal,expensive,Jamaica,10:00,21:00,3,false
+380,Lotstring,Brazil,cheap,Gowanus,10:00,21:00,1,true
+381,Daltfresh,Philippines,medium,East Harlem,10:00,21:00,4,false
+382,Bytecard,Madagascar,medium,Greenpoint,10:00,21:00,4,true
+383,Trippledex,Indonesia,medium,Brooklyn Heights,10:00,21:00,5,true
+384,Konklux,China,cheap,Morningside Heights,10:00,21:00,5,true
+385,Gembucket,Indonesia,medium,Jackson Heights,10:00,21:00,2,false
+386,Tres-Zap,China,medium,Upper West Side,10:00,21:00,1,true
+387,Domainer,Brazil,medium,Battery Park City,10:00,21:00,4,true
+388,Flowdesk,China,medium,Upper West Side,10:00,21:00,5,true
+389,Flowdesk,China,cheap,Chinatown,10:00,21:00,1,false
+390,Flexidy,Thailand,cheap,Prospect Heights,10:00,21:00,5,true
+391,Bamity,Greece,cheap,SoHo,10:00,21:00,1,false
+392,Bitchip,Antigua and Barbuda,medium,Brooklyn Heights,10:00,21:00,3,false
+393,Treeflex,China,medium,Park Slope,10:00,21:00,2,true
+394,Sonair,China,expensive,Midtown,10:00,21:00,2,true
+395,Stronghold,France,medium,West Village,10:00,21:00,5,true
+396,Cardguard,China,expensive,Lower East Side,10:00,21:00,3,true
+397,Y-find,Indonesia,cheap,East Village,10:00,21:00,5,true
+398,Konklux,Sweden,medium,Fort Greene,10:00,21:00,4,true
+399,Fix San,Thailand,medium,Gowanus,10:00,21:00,2,false
+400,Viva,China,medium,Carroll Gardens,10:00,21:00,2,false
+401,Voltsillam,Indonesia,cheap,East Harlem,10:00,21:00,4,false
+402,Duobam,Latvia,cheap,Murray Hill,10:00,21:00,4,false
+403,Job,Portugal,cheap,Inwood,10:00,21:00,1,false
+404,Tin,Colombia,cheap,Coney Island,10:00,21:00,4,true
+405,Y-find,Thailand,cheap,Stuyvesant Town,10:00,21:00,2,false
+406,Otcom,Poland,medium,Little Italy,10:00,21:00,1,false
+407,Subin,Peru,medium,Flushing,10:00,21:00,2,true
+408,Lotlux,China,medium,Battery Park City,10:00,21:00,2,false
+409,It,China,cheap,Nolita,10:00,21:00,4,true
+410,Aerified,Netherlands,medium,Midtown,10:00,21:00,4,false
+411,Cardify,Palestinian Territory,cheap,Little Italy,10:00,21:00,5,false
+412,Sonair,France,expensive,Columbia Street Waterfront District,10:00,21:00,4,true
+413,Tres-Zap,Canada,cheap,Queensbridge,10:00,21:00,5,true
+414,Span,China,cheap,Hell's Kitchen,10:00,21:00,3,false
+415,Zathin,Russia,expensive,Windsor Terrace,10:00,21:00,5,false
+416,Vagram,Chile,medium,Chinatown,10:00,21:00,3,false
+417,Domainer,Portugal,expensive,Carroll Gardens,10:00,21:00,2,false
+418,Biodex,Philippines,cheap,Astoria,10:00,21:00,1,false
+419,Voyatouch,Indonesia,medium,St. George,10:00,21:00,1,false
+420,Zontrax,Guinea-Bissau,cheap,Columbia Street Waterfront District,10:00,21:00,4,false
+421,Konklab,China,medium,Upper East Side,10:00,21:00,1,true
+422,Zontrax,Russia,medium,Upper East Side,10:00,21:00,2,false
+423,Subin,Philippines,cheap,Midtown,10:00,21:00,5,true
+424,Toughjoyfax,Malaysia,medium,Nolita,10:00,21:00,2,true
+425,Flexidy,Philippines,cheap,Bed-Stuy,10:00,21:00,3,false
+426,Zaam-Dox,China,medium,Gowanus,10:00,21:00,4,true
+427,Fintone,Netherlands,cheap,Cobble Hill,10:00,21:00,3,true
+428,Stronghold,United Kingdom,medium,Koreatown,10:00,21:00,5,true
+429,Sub-Ex,China,cheap,Yorkville,10:00,21:00,1,false
+430,Aerified,Croatia,expensive,Meatpacking District,10:00,21:00,1,false
+431,Regrant,Russia,expensive,Upper West Side,10:00,21:00,3,true
+432,Opela,Poland,cheap,Columbia Street Waterfront District,10:00,21:00,3,true
+433,Bigtax,Indonesia,expensive,Koreatown,10:00,21:00,5,true
+434,Y-Solowarm,China,medium,Nolita,10:00,21:00,1,false
+435,Rank,Indonesia,medium,Flushing,10:00,21:00,1,true
+436,Fixflex,Mexico,expensive,Financial District,10:00,21:00,1,true
+437,Kanlam,China,medium,Brooklyn Heights,10:00,21:00,5,true
+438,Fix San,Mexico,cheap,Carroll Gardens,10:00,21:00,2,true
+439,Daltfresh,Brazil,cheap,SoHo,10:00,21:00,4,true
+440,Ventosanzap,Venezuela,expensive,Inwood,10:00,21:00,3,false
+441,Biodex,China,expensive,Bed-Stuy,10:00,21:00,2,true
+442,Viva,China,medium,West Village,10:00,21:00,3,true
+443,Opela,Belarus,expensive,Hell's Kitchen,10:00,21:00,1,true
+444,Redhold,China,cheap,Gowanus,10:00,21:00,3,true
+445,Vagram,Sweden,cheap,Long Island City,10:00,21:00,2,false
+446,Tresom,United States,medium,Financial District,10:00,21:00,5,false
+447,Ronstring,China,cheap,Morningside Heights,10:00,21:00,5,true
+448,Ronstring,Costa Rica,cheap,Queensbridge,10:00,21:00,4,false
+449,Rank,Nigeria,medium,Carroll Gardens,10:00,21:00,2,true
+450,Regrant,Philippines,medium,Meatpacking District,10:00,21:00,5,true
+451,Bytecard,France,expensive,Coney Island,10:00,21:00,3,true
+452,Span,Philippines,expensive,Long Island City,10:00,21:00,3,false
+453,Konklux,China,expensive,Financial District,10:00,21:00,2,false
+454,Konklux,Philippines,medium,Coney Island,10:00,21:00,2,false
+455,Zontrax,Thailand,cheap,St. George,10:00,21:00,2,false
+456,Stringtough,Turkey,cheap,Upper West Side,10:00,21:00,2,true
+457,Mat Lam Tam,Indonesia,medium,Ridgewood,10:00,21:00,4,false
+458,Namfix,Indonesia,cheap,Two Bridges,10:00,21:00,3,true
+459,Pannier,Greece,cheap,Harlem,10:00,21:00,3,false
+460,Zontrax,China,cheap,Hell's Kitchen,10:00,21:00,3,false
+461,Ventosanzap,Brazil,cheap,St. George,10:00,21:00,4,false
+462,Rank,Portugal,cheap,Flushing,10:00,21:00,1,true
+463,Zontrax,France,medium,Flushing,10:00,21:00,1,true
+464,Tin,France,medium,Harlem,10:00,21:00,4,true
+465,Treeflex,Venezuela,expensive,Stuyvesant Town,10:00,21:00,1,true
+466,Fix San,Brazil,expensive,Astoria,10:00,21:00,3,true
+467,Fintone,Mexico,cheap,Astoria,10:00,21:00,1,true
+468,Zontrax,China,medium,DUMBO,10:00,21:00,3,true
+469,Biodex,Portugal,cheap,Lower East Side,10:00,21:00,2,true
+470,Toughjoyfax,Poland,medium,Flushing,10:00,21:00,3,false
+471,Daltfresh,Indonesia,medium,Financial District,10:00,21:00,2,true
+472,Overhold,Greece,expensive,Boerum Hill,10:00,21:00,1,false
+473,Overhold,Chile,medium,Windsor Terrace,10:00,21:00,1,true
+474,Sonsing,Portugal,cheap,Park Slope,10:00,21:00,1,true
+475,Asoka,Afghanistan,cheap,Astoria,10:00,21:00,2,true
+476,Bamity,Poland,expensive,Fort Greene,10:00,21:00,4,false
+477,It,United States,expensive,Inwood,10:00,21:00,5,true
+478,Sub-Ex,Portugal,expensive,Boerum Hill,10:00,21:00,5,true
+479,Job,China,expensive,Hell's Kitchen,10:00,21:00,5,false
+480,Bigtax,Vietnam,medium,Jamaica,10:00,21:00,4,true
+481,Flexidy,China,cheap,Astoria,10:00,21:00,5,false
+482,Zontrax,Czech Republic,expensive,NoHo,10:00,21:00,1,false
+483,Duobam,Pakistan,medium,Carroll Gardens,10:00,21:00,1,false
+484,Hatity,China,cheap,Stuyvesant Town,10:00,21:00,1,false
+485,Veribet,Croatia,cheap,Ridgewood,10:00,21:00,1,false
+486,Flowdesk,Philippines,expensive,St. George,10:00,21:00,2,false
+487,Sonsing,Russia,cheap,Astoria,10:00,21:00,2,false
+488,Zaam-Dox,South Africa,cheap,Gowanus,10:00,21:00,2,false
+489,Trippledex,China,medium,Nolita,10:00,21:00,1,true
+490,Trippledex,Japan,expensive,Inwood,10:00,21:00,5,false
+491,Bitchip,China,expensive,Koreatown,10:00,21:00,4,true
+492,Bitwolf,China,medium,Cobble Hill,10:00,21:00,4,false
+493,Fintone,Switzerland,medium,Fort Greene,10:00,21:00,3,false
+494,Treeflex,Indonesia,medium,Battery Park City,10:00,21:00,5,false
+495,Job,Czech Republic,expensive,Boerum Hill,10:00,21:00,4,true
+496,Ronstring,Mauritius,expensive,Financial District,10:00,21:00,4,false
+497,Holdlamis,China,medium,Harlem,10:00,21:00,4,true
+498,Zoolab,Swaziland,expensive,Ridgewood,10:00,21:00,2,false
+499,Y-Solowarm,Sweden,expensive,Williamsburg,10:00,21:00,3,true
+500,Aerified,Slovenia,medium,Battery Park City,10:00,21:00,2,true
+501,Job,Iran,medium,Astoria,10:00,21:00,1,true
+502,Ronstring,Colombia,medium,Murray Hill,10:00,21:00,2,false
+503,Prodder,China,expensive,Lower East Side,10:00,21:00,1,true
+504,Zamit,Czech Republic,expensive,Nolita,10:00,21:00,4,false
+505,Flowdesk,Germany,cheap,Flatiron District,10:00,21:00,5,true
+506,Mat Lam Tam,Indonesia,medium,Prospect Heights,10:00,21:00,3,true
+507,Tres-Zap,Poland,cheap,Cobble Hill,10:00,21:00,3,false
+508,Zamit,Czech Republic,medium,Meatpacking District,10:00,21:00,4,false
+509,Lotstring,Indonesia,cheap,St. George,10:00,21:00,1,false
+510,Hatity,Switzerland,expensive,Midtown,10:00,21:00,1,true
+511,Konklab,United States,medium,Park Slope,10:00,21:00,1,true
+512,Zathin,Pakistan,expensive,East Village,10:00,21:00,1,false
+513,Fix San,Indonesia,cheap,Chinatown,10:00,21:00,4,false
+514,Veribet,Philippines,medium,Hell's Kitchen,10:00,21:00,5,false
+515,Stringtough,Colombia,expensive,Nolita,10:00,21:00,2,false
+516,Veribet,Russia,medium,Bed-Stuy,10:00,21:00,4,true
+517,Sub-Ex,France,expensive,Hell's Kitchen,10:00,21:00,1,true
+518,Cardguard,Armenia,cheap,NoHo,10:00,21:00,4,true
+519,Span,Mauritius,cheap,Hell's Kitchen,10:00,21:00,1,false
+520,Sonsing,Norway,cheap,Park Slope,10:00,21:00,2,false
+521,Ronstring,Indonesia,medium,Queensbridge,10:00,21:00,3,true
+522,Home Ing,Indonesia,expensive,Prospect Heights,10:00,21:00,1,true
+523,Cardguard,China,medium,Bed-Stuy,10:00,21:00,2,false
+524,Sonair,Indonesia,medium,Astoria,10:00,21:00,1,false
+525,Ronstring,Croatia,medium,Midtown,10:00,21:00,1,false
+526,Sonsing,China,expensive,Park Slope,10:00,21:00,3,false
+527,Namfix,Philippines,expensive,Jamaica,10:00,21:00,4,false
+528,Konklab,China,medium,Cobble Hill,10:00,21:00,5,false
+529,Greenlam,Sweden,cheap,Inwood,10:00,21:00,5,false
+530,Andalax,Indonesia,medium,Carroll Gardens,10:00,21:00,1,true
+531,Opela,Indonesia,expensive,East Harlem,10:00,21:00,4,true
+532,Flowdesk,France,cheap,Bed-Stuy,10:00,21:00,2,true
+533,Home Ing,Pakistan,cheap,Hell's Kitchen,10:00,21:00,3,true
+534,Cardguard,Philippines,cheap,Upper East Side,10:00,21:00,3,false
+535,Stringtough,Greece,medium,Gowanus,10:00,21:00,4,false
+536,Fix San,Indonesia,expensive,St. George,10:00,21:00,3,false
+537,Zathin,China,expensive,Koreatown,10:00,21:00,1,true
+538,It,China,expensive,Astoria,10:00,21:00,3,true
+539,Regrant,Vietnam,expensive,Upper West Side,10:00,21:00,1,true
+540,Bytecard,Mexico,medium,SoHo,10:00,21:00,1,false
+541,Sub-Ex,Portugal,medium,Astoria,10:00,21:00,3,false
+542,Alpha,Poland,expensive,Long Island City,10:00,21:00,3,false
+543,Tresom,Uganda,medium,Hell's Kitchen,10:00,21:00,3,false
+544,Matsoft,China,expensive,Astoria,10:00,21:00,3,true
+545,Flowdesk,France,medium,Murray Hill,10:00,21:00,3,false
+546,Fintone,Brazil,medium,Jamaica,10:00,21:00,3,true
+547,Home Ing,Paraguay,medium,NoHo,10:00,21:00,5,false
+548,Job,United States,expensive,Long Island City,10:00,21:00,4,false
+549,Subin,Kyrgyzstan,medium,Brooklyn Heights,10:00,21:00,3,false
+550,It,Tunisia,cheap,Park Slope,10:00,21:00,5,false
+551,Redhold,Poland,expensive,Greenpoint,10:00,21:00,3,true
+552,Hatity,Thailand,expensive,Long Island City,10:00,21:00,3,true
+553,It,China,medium,West Village,10:00,21:00,2,true
+554,Aerified,Indonesia,cheap,DUMBO,10:00,21:00,3,true
+555,Y-Solowarm,Cambodia,medium,Astoria,10:00,21:00,4,false
+556,Alphazap,Gambia,medium,Kips Bay,10:00,21:00,1,true
+557,Y-Solowarm,South Korea,expensive,Bronx Park,10:00,21:00,4,false
+558,Tin,Cuba,expensive,Flushing,10:00,21:00,3,true
+559,Bigtax,Indonesia,medium,Meatpacking District,10:00,21:00,4,false
+560,Job,Netherlands,cheap,Yorkville,10:00,21:00,2,true
+561,Tres-Zap,Chile,medium,Brooklyn Heights,10:00,21:00,1,false
+562,Zaam-Dox,Brazil,medium,Jamaica,10:00,21:00,5,true
+563,Stringtough,Ukraine,medium,Sunset Park,10:00,21:00,4,true
+564,Domainer,Armenia,medium,Nolita,10:00,21:00,5,true
+565,Latlux,Tanzania,medium,Chinatown,10:00,21:00,5,false
+566,Job,China,expensive,NoHo,10:00,21:00,5,true
+567,Zontrax,Thailand,cheap,Astoria,10:00,21:00,1,false
+568,Job,Canada,medium,Ridgewood,10:00,21:00,3,true
+569,Biodex,Japan,medium,Hell's Kitchen,10:00,21:00,2,false
+570,Viva,Peru,expensive,Boerum Hill,10:00,21:00,3,false
+571,Lotlux,China,cheap,Gowanus,10:00,21:00,2,false
+572,Quo Lux,Poland,cheap,Columbia Street Waterfront District,10:00,21:00,3,false
+573,Bytecard,Indonesia,medium,DUMBO,10:00,21:00,2,true
+574,Treeflex,Finland,medium,Jackson Heights,10:00,21:00,1,true
+575,Tresom,China,expensive,Ridgewood,10:00,21:00,2,true
+576,Subin,Dominican Republic,medium,NoHo,10:00,21:00,4,true
+577,Asoka,United States,expensive,Queensbridge,10:00,21:00,2,true
+578,Trippledex,United States,expensive,Ridgewood,10:00,21:00,4,false
+579,Tresom,Czech Republic,expensive,South Slope,10:00,21:00,4,false
+580,Aerified,Greece,medium,Columbia Street Waterfront District,10:00,21:00,5,false
+581,Lotlux,Canada,expensive,Carroll Gardens,10:00,21:00,5,false
+582,It,Russia,cheap,Queensbridge,10:00,21:00,5,false
+583,Quo Lux,Philippines,medium,Williamsburg,10:00,21:00,5,true
+584,Tresom,Sweden,cheap,South Slope,10:00,21:00,5,false
+585,Vagram,Japan,expensive,Flatiron District,10:00,21:00,2,true
+586,Cookley,Iran,medium,SoHo,10:00,21:00,3,true
+587,Kanlam,China,medium,Two Bridges,10:00,21:00,1,true
+588,Aerified,Brazil,cheap,Jamaica,10:00,21:00,3,true
+589,Opela,China,cheap,Tribeca,10:00,21:00,3,true
+590,Flexidy,China,expensive,Inwood,10:00,21:00,2,true
+591,Keylex,Cuba,medium,South Slope,10:00,21:00,3,true
+592,Overhold,Indonesia,expensive,Chinatown,10:00,21:00,3,false
+593,Regrant,Thailand,medium,West Village,10:00,21:00,3,false
+594,Zathin,Brazil,medium,Upper East Side,10:00,21:00,3,true
+595,Otcom,Canada,cheap,Park Slope,10:00,21:00,3,false
+596,Solarbreeze,China,cheap,Carroll Gardens,10:00,21:00,2,false
+597,Bytecard,Canada,cheap,SoHo,10:00,21:00,1,false
+598,Solarbreeze,Spain,medium,Flushing,10:00,21:00,3,true
+599,Domainer,Japan,expensive,Midtown,10:00,21:00,1,false
+600,Zontrax,Indonesia,medium,East Village,10:00,21:00,2,false
+601,Viva,Honduras,medium,Two Bridges,10:00,21:00,4,true
+602,Sonsing,Canada,medium,Windsor Terrace,10:00,21:00,2,true
+603,Opela,Greece,expensive,Two Bridges,10:00,21:00,2,false
+604,Konklab,Nigeria,medium,SoHo,10:00,21:00,3,false
+605,Pannier,United States,cheap,Battery Park City,10:00,21:00,4,false
+606,Sub-Ex,Japan,expensive,Upper East Side,10:00,21:00,2,false
+607,Zoolab,Russia,expensive,Yorkville,10:00,21:00,2,true
+608,Domainer,China,cheap,Midtown,10:00,21:00,3,false
+609,Toughjoyfax,China,cheap,Columbia Street Waterfront District,10:00,21:00,1,false
+610,Solarbreeze,Indonesia,cheap,Flatiron District,10:00,21:00,2,false
+611,Fix San,China,cheap,Red Hook,10:00,21:00,3,true
+612,Gembucket,Ukraine,expensive,Sunset Park,10:00,21:00,4,false
+613,Konklux,Philippines,medium,Sunset Park,10:00,21:00,1,true
+614,Aerified,Indonesia,expensive,Jackson Heights,10:00,21:00,4,true
+615,Rank,Czech Republic,medium,Stuyvesant Town,10:00,21:00,4,true
+616,Y-Solowarm,Canada,medium,Coney Island,10:00,21:00,4,true
+617,Rank,United States,medium,St. George,10:00,21:00,1,true
+618,Transcof,Indonesia,cheap,Morningside Heights,10:00,21:00,1,false
+619,Regrant,Brazil,expensive,Murray Hill,10:00,21:00,5,false
+620,Tin,China,cheap,Prospect Heights,10:00,21:00,3,false
+621,Konklab,Indonesia,cheap,Ridgewood,10:00,21:00,2,true
+622,Alphazap,Philippines,expensive,Tribeca,10:00,21:00,5,false
+623,Kanlam,Portugal,cheap,Upper East Side,10:00,21:00,2,false
+624,Fixflex,Poland,medium,Carroll Gardens,10:00,21:00,4,true
+625,Zontrax,France,cheap,Inwood,10:00,21:00,2,false
+626,Gembucket,Albania,expensive,Koreatown,10:00,21:00,1,true
+627,It,China,medium,SoHo,10:00,21:00,4,true
+628,Zamit,Vietnam,expensive,Yorkville,10:00,21:00,3,false
+629,Treeflex,Benin,expensive,Flatiron District,10:00,21:00,4,true
+630,Holdlamis,Poland,cheap,Columbia Street Waterfront District,10:00,21:00,5,true
+631,Domainer,Cameroon,cheap,DUMBO,10:00,21:00,1,true
+632,Sonsing,Indonesia,medium,Flushing,10:00,21:00,1,true
+633,Fix San,Morocco,medium,Lower East Side,10:00,21:00,4,true
+634,Redhold,Pakistan,expensive,Koreatown,10:00,21:00,5,false
+635,Tin,Austria,expensive,Battery Park City,10:00,21:00,5,true
+636,Bytecard,Myanmar,cheap,Gowanus,10:00,21:00,1,false
+637,Lotlux,China,medium,Long Island City,10:00,21:00,3,true
+638,Solarbreeze,Philippines,cheap,Koreatown,10:00,21:00,4,false
+639,Job,Indonesia,cheap,Queensbridge,10:00,21:00,5,false
+640,Bitchip,South Korea,medium,Windsor Terrace,10:00,21:00,4,true
+641,Ventosanzap,Philippines,expensive,Queensbridge,10:00,21:00,4,false
+642,Lotlux,China,expensive,Midtown,10:00,21:00,2,false
+643,Bytecard,Morocco,medium,DUMBO,10:00,21:00,5,false
+644,Keylex,Democratic Republic of the Congo,medium,Greenpoint,10:00,21:00,2,true
+645,Bigtax,Czech Republic,medium,Kips Bay,10:00,21:00,1,false
+646,Zamit,Cameroon,expensive,DUMBO,10:00,21:00,4,true
+647,Zamit,United States,expensive,Long Island City,10:00,21:00,4,true
+648,Bytecard,Somalia,medium,Nolita,10:00,21:00,2,true
+649,Bigtax,Japan,cheap,Kips Bay,10:00,21:00,2,false
+650,Daltfresh,Russia,medium,Hell's Kitchen,10:00,21:00,2,true
+651,Konklux,Philippines,expensive,Harlem,10:00,21:00,1,false
+652,Ronstring,Argentina,medium,Midtown,10:00,21:00,1,false
+653,Asoka,Morocco,expensive,Boerum Hill,10:00,21:00,3,false
+654,Home Ing,Poland,cheap,West Village,10:00,21:00,1,true
+655,Konklab,Syria,medium,Murray Hill,10:00,21:00,1,true
+656,Vagram,Russia,medium,Queensbridge,10:00,21:00,4,false
+657,Bytecard,Bulgaria,cheap,Flatiron District,10:00,21:00,3,false
+658,Kanlam,China,medium,Queensbridge,10:00,21:00,2,true
+659,Treeflex,France,cheap,Battery Park City,10:00,21:00,3,false
+660,Lotlux,Indonesia,cheap,Midtown,10:00,21:00,4,false
+661,Trippledex,Philippines,cheap,Prospect Heights,10:00,21:00,2,true
+662,Holdlamis,Portugal,cheap,Sunset Park,10:00,21:00,4,false
+663,Prodder,Dominican Republic,cheap,Bronx Park,10:00,21:00,2,true
+664,Y-Solowarm,Portugal,medium,Chinatown,10:00,21:00,2,false
+665,Wrapsafe,Guatemala,medium,East Village,10:00,21:00,2,true
+666,Sub-Ex,Poland,expensive,Sunset Park,10:00,21:00,1,true
+667,Fixflex,United States,expensive,Battery Park City,10:00,21:00,1,false
+668,Cookley,Mexico,medium,Nolita,10:00,21:00,4,false
+669,Veribet,United States,expensive,Boerum Hill,10:00,21:00,4,true
+670,Zontrax,Philippines,cheap,East Harlem,10:00,21:00,3,true
+671,Andalax,Russia,medium,Tribeca,10:00,21:00,5,false
+672,Alphazap,Canada,medium,Flatiron District,10:00,21:00,5,true
+673,Tempsoft,Cameroon,expensive,Queensbridge,10:00,21:00,4,false
+674,Tin,Indonesia,medium,Carroll Gardens,10:00,21:00,2,true
+675,Regrant,Indonesia,medium,Greenpoint,10:00,21:00,1,true
+676,It,China,expensive,Long Island City,10:00,21:00,4,true
+677,Bitchip,Poland,medium,Park Slope,10:00,21:00,4,false
+678,Zoolab,Libya,cheap,Little Italy,10:00,21:00,2,false
+679,Y-Solowarm,Kazakhstan,cheap,NoHo,10:00,21:00,2,false
+680,It,Poland,expensive,Flushing,10:00,21:00,4,true
+681,Ventosanzap,Philippines,expensive,Meatpacking District,10:00,21:00,5,false
+682,Span,Poland,expensive,Coney Island,10:00,21:00,3,false
+683,Voltsillam,Brazil,medium,Red Hook,10:00,21:00,5,true
+684,Bitwolf,Portugal,cheap,SoHo,10:00,21:00,2,true
+685,Veribet,Canada,expensive,Columbia Street Waterfront District,10:00,21:00,1,false
+686,Veribet,Japan,medium,Flushing,10:00,21:00,3,false
+687,Y-find,Russia,medium,Cobble Hill,10:00,21:00,3,false
+688,Overhold,Indonesia,cheap,St. George,10:00,21:00,2,false
+689,Alphazap,China,expensive,St. George,10:00,21:00,5,true
+690,Cardify,Indonesia,expensive,Coney Island,10:00,21:00,1,false
+691,Tresom,France,medium,Windsor Terrace,10:00,21:00,1,true
+692,Tin,Indonesia,medium,Little Italy,10:00,21:00,4,false
+693,Andalax,Finland,medium,Sunset Park,10:00,21:00,3,true
+694,Mat Lam Tam,Vietnam,expensive,South Slope,10:00,21:00,2,false
+695,Duobam,Indonesia,cheap,Kips Bay,10:00,21:00,4,true
+696,Domainer,China,cheap,Windsor Terrace,10:00,21:00,4,false
+697,Ventosanzap,Thailand,cheap,Chinatown,10:00,21:00,4,true
+698,Sub-Ex,Uganda,medium,Queensbridge,10:00,21:00,1,false
+699,Voyatouch,United States,medium,East Village,10:00,21:00,5,true
+700,Tres-Zap,Vietnam,medium,Tribeca,10:00,21:00,4,true
+701,Aerified,Colombia,cheap,Bronx Park,10:00,21:00,3,true
+702,Bitchip,Sweden,medium,Red Hook,10:00,21:00,2,false
+703,Alpha,Peru,cheap,Two Bridges,10:00,21:00,1,true
+704,Ventosanzap,Guatemala,cheap,Bed-Stuy,10:00,21:00,4,false
+705,Stringtough,Ethiopia,expensive,Nolita,10:00,21:00,5,true
+706,Andalax,Ecuador,expensive,Inwood,10:00,21:00,2,true
+707,Zathin,China,expensive,Kips Bay,10:00,21:00,3,true
+708,Stim,Indonesia,cheap,Stuyvesant Town,10:00,21:00,5,false
+709,Opela,Czech Republic,cheap,East Harlem,10:00,21:00,4,false
+710,Biodex,Spain,expensive,NoHo,10:00,21:00,2,true
+711,Quo Lux,Russia,cheap,Kips Bay,10:00,21:00,3,true
+712,Latlux,France,medium,St. George,10:00,21:00,4,true
+713,Prodder,Haiti,cheap,Ridgewood,10:00,21:00,2,false
+714,Andalax,Guatemala,medium,Koreatown,10:00,21:00,1,false
+715,Lotstring,Indonesia,cheap,Lower East Side,10:00,21:00,5,true
+716,Home Ing,Dominican Republic,medium,Lower East Side,10:00,21:00,4,false
+717,Zoolab,China,expensive,Financial District,10:00,21:00,3,true
+718,Holdlamis,Czech Republic,cheap,Jackson Heights,10:00,21:00,2,true
+719,Stim,China,expensive,Chinatown,10:00,21:00,2,false
+720,Voyatouch,Brazil,medium,Harlem,10:00,21:00,2,true
+721,Stringtough,Botswana,cheap,Kips Bay,10:00,21:00,4,false
+722,Viva,Indonesia,medium,Tribeca,10:00,21:00,1,false
+723,Rank,Tanzania,expensive,Flatiron District,10:00,21:00,4,true
+724,Zathin,Mongolia,medium,Brooklyn Heights,10:00,21:00,4,true
+725,Treeflex,Brazil,medium,Inwood,10:00,21:00,3,false
+726,Treeflex,Indonesia,expensive,Upper West Side,10:00,21:00,3,true
+727,Hatity,Ecuador,medium,Upper East Side,10:00,21:00,5,false
+728,Zoolab,Sweden,cheap,East Harlem,10:00,21:00,2,true
+729,Domainer,Indonesia,medium,Long Island City,10:00,21:00,3,false
+730,Treeflex,China,medium,SoHo,10:00,21:00,3,true
+731,Subin,Russia,medium,Queensbridge,10:00,21:00,5,false
+732,Quo Lux,China,expensive,SoHo,10:00,21:00,3,false
+733,Voltsillam,Japan,expensive,Windsor Terrace,10:00,21:00,1,true
+734,Matsoft,Philippines,medium,Brooklyn Heights,10:00,21:00,5,false
+735,Stim,Peru,cheap,NoHo,10:00,21:00,3,false
+736,Span,Portugal,medium,Upper East Side,10:00,21:00,3,true
+737,Alpha,Portugal,medium,Fort Greene,10:00,21:00,4,true
+738,Tin,Poland,cheap,Yorkville,10:00,21:00,3,true
+739,Voltsillam,Albania,expensive,Jackson Heights,10:00,21:00,4,true
+740,Temp,China,medium,Boerum Hill,10:00,21:00,3,true
+741,Hatity,Japan,cheap,Lower East Side,10:00,21:00,3,false
+742,Sub-Ex,Greece,cheap,Stuyvesant Town,10:00,21:00,5,false
+743,Cardify,China,medium,Nolita,10:00,21:00,5,true
+744,Bamity,China,expensive,Jamaica,10:00,21:00,3,false
+745,Trippledex,Libya,cheap,Greenpoint,10:00,21:00,3,true
+746,Zamit,Netherlands,medium,Coney Island,10:00,21:00,2,true
+747,Flowdesk,Indonesia,cheap,Harlem,10:00,21:00,3,false
+748,Stronghold,Philippines,expensive,SoHo,10:00,21:00,5,false
+749,Tempsoft,Comoros,expensive,Nolita,10:00,21:00,3,false
+750,Matsoft,Colombia,expensive,Morningside Heights,10:00,21:00,2,true
+751,Prodder,Indonesia,expensive,Boerum Hill,10:00,21:00,1,false
+752,Transcof,Japan,cheap,Sunset Park,10:00,21:00,3,false
+753,Home Ing,New Zealand,medium,Inwood,10:00,21:00,4,false
+754,Fix San,Ukraine,cheap,Carroll Gardens,10:00,21:00,2,true
+755,Matsoft,Russia,expensive,Flushing,10:00,21:00,2,false
+756,Lotstring,China,expensive,Prospect Heights,10:00,21:00,5,true
+757,Tresom,Indonesia,expensive,Carroll Gardens,10:00,21:00,3,false
+758,Alpha,Indonesia,expensive,South Slope,10:00,21:00,5,false
+759,Bitwolf,China,medium,Boerum Hill,10:00,21:00,1,false
+760,Flexidy,Philippines,medium,Cobble Hill,10:00,21:00,3,true
+761,Greenlam,China,expensive,Park Slope,10:00,21:00,5,false
+762,Stronghold,Tunisia,expensive,Bronx Park,10:00,21:00,1,true
+763,Otcom,Cyprus,cheap,Hell's Kitchen,10:00,21:00,2,false
+764,Trippledex,Palestinian Territory,cheap,Tribeca,10:00,21:00,1,false
+765,Gembucket,Indonesia,expensive,East Village,10:00,21:00,5,false
+766,Fintone,Portugal,medium,Inwood,10:00,21:00,5,true
+767,Flexidy,Portugal,cheap,Chinatown,10:00,21:00,3,true
+768,Y-find,Argentina,expensive,East Village,10:00,21:00,1,false
+769,Bamity,Sweden,cheap,Cobble Hill,10:00,21:00,4,true
+770,It,Mexico,cheap,NoHo,10:00,21:00,4,false
+771,Bigtax,Sweden,expensive,Battery Park City,10:00,21:00,4,true
+772,Otcom,Libya,expensive,Harlem,10:00,21:00,4,true
+773,Tres-Zap,Mexico,expensive,Brooklyn Heights,10:00,21:00,3,true
+774,Duobam,Indonesia,expensive,Brooklyn Heights,10:00,21:00,5,false
+775,Span,United States,cheap,Nolita,10:00,21:00,5,true
+776,Gembucket,Iraq,expensive,Bronx Park,10:00,21:00,3,false
+777,Treeflex,Russia,cheap,Brooklyn Heights,10:00,21:00,4,true
+778,Tresom,Afghanistan,cheap,Hell's Kitchen,10:00,21:00,4,false
+779,Sonair,Colombia,cheap,Windsor Terrace,10:00,21:00,1,true
+780,Overhold,China,cheap,Upper East Side,10:00,21:00,2,true
+781,Viva,Vietnam,medium,Financial District,10:00,21:00,5,true
+782,Toughjoyfax,Russia,expensive,Hell's Kitchen,10:00,21:00,2,true
+783,Domainer,Kenya,cheap,Two Bridges,10:00,21:00,4,false
+784,Aerified,Thailand,cheap,Windsor Terrace,10:00,21:00,3,true
+785,Fintone,Indonesia,cheap,Upper East Side,10:00,21:00,5,false
+786,Viva,Indonesia,cheap,Columbia Street Waterfront District,10:00,21:00,2,false
+787,Mat Lam Tam,China,medium,Windsor Terrace,10:00,21:00,5,false
+788,Cardguard,Philippines,cheap,Little Italy,10:00,21:00,2,false
+789,Job,China,cheap,SoHo,10:00,21:00,5,false
+790,Bitwolf,China,medium,Morningside Heights,10:00,21:00,1,false
+791,Transcof,Russia,medium,East Harlem,10:00,21:00,1,true
+792,Redhold,Cuba,cheap,Long Island City,10:00,21:00,2,false
+793,Tempsoft,Japan,medium,Brooklyn Heights,10:00,21:00,1,true
+794,Prodder,Philippines,expensive,Tribeca,10:00,21:00,1,false
+795,Stim,China,medium,Murray Hill,10:00,21:00,5,false
+796,Hatity,Austria,expensive,Windsor Terrace,10:00,21:00,5,true
+797,Fixflex,Japan,cheap,Flatiron District,10:00,21:00,2,true
+798,Y-Solowarm,China,expensive,Stuyvesant Town,10:00,21:00,1,true
+799,Hatity,Brazil,medium,Ridgewood,10:00,21:00,3,true
+800,Flowdesk,Uzbekistan,medium,Hell's Kitchen,10:00,21:00,4,true
+801,Tempsoft,Uruguay,expensive,Financial District,10:00,21:00,3,true
+802,Andalax,China,expensive,Queensbridge,10:00,21:00,3,true
+803,Tresom,China,medium,Stuyvesant Town,10:00,21:00,4,false
+804,Zontrax,Sierra Leone,cheap,Chinatown,10:00,21:00,5,false
+805,Prodder,China,medium,Greenpoint,10:00,21:00,3,false
+806,Daltfresh,Jamaica,expensive,Columbia Street Waterfront District,10:00,21:00,3,false
+807,Wrapsafe,China,medium,Prospect Heights,10:00,21:00,3,true
+808,Flowdesk,Bosnia and Herzegovina,cheap,Financial District,10:00,21:00,5,true
+809,Fix San,Poland,expensive,St. George,10:00,21:00,5,true
+810,Gembucket,China,expensive,Stuyvesant Town,10:00,21:00,3,false
+811,Bitwolf,Cyprus,cheap,Brooklyn Heights,10:00,21:00,1,true
+812,Regrant,Kosovo,cheap,Boerum Hill,10:00,21:00,5,false
+813,Bitchip,China,cheap,Park Slope,10:00,21:00,5,true
+814,Kanlam,Thailand,cheap,Red Hook,10:00,21:00,3,false
+815,Voltsillam,China,expensive,Prospect Heights,10:00,21:00,4,true
+816,Tresom,Poland,medium,Kips Bay,10:00,21:00,1,false
+817,Biodex,Philippines,expensive,Two Bridges,10:00,21:00,3,true
+818,Subin,Indonesia,medium,Windsor Terrace,10:00,21:00,5,false
+819,Gembucket,Indonesia,expensive,Chinatown,10:00,21:00,4,true
+820,Keylex,Russia,medium,Tribeca,10:00,21:00,4,false
+821,Trippledex,Indonesia,expensive,Koreatown,10:00,21:00,2,true
+822,Bytecard,Belarus,expensive,NoHo,10:00,21:00,5,true
+823,Cardify,Russia,medium,West Village,10:00,21:00,1,true
+824,Tresom,Indonesia,cheap,Morningside Heights,10:00,21:00,5,false
+825,Greenlam,Czech Republic,medium,Morningside Heights,10:00,21:00,4,false
+826,Lotlux,Indonesia,cheap,Inwood,10:00,21:00,3,false
+827,Cardguard,Uganda,medium,Jamaica,10:00,21:00,3,true
+828,Tin,Albania,expensive,Meatpacking District,10:00,21:00,5,false
+829,Tin,Mexico,medium,Brooklyn Heights,10:00,21:00,1,false
+830,Latlux,Tanzania,expensive,Gowanus,10:00,21:00,2,true
+831,Y-Solowarm,Philippines,medium,Gowanus,10:00,21:00,3,true
+832,Sonsing,Poland,cheap,Bronx Park,10:00,21:00,4,false
+833,Andalax,Peru,expensive,Red Hook,10:00,21:00,1,true
+834,Andalax,Sweden,medium,East Harlem,10:00,21:00,2,false
+835,Toughjoyfax,Netherlands,expensive,NoHo,10:00,21:00,1,true
+836,Subin,Indonesia,expensive,Prospect Heights,10:00,21:00,4,true
+837,Ventosanzap,Peru,medium,Windsor Terrace,10:00,21:00,3,true
+838,Tres-Zap,United States,medium,DUMBO,10:00,21:00,2,false
+839,Domainer,Philippines,medium,Stuyvesant Town,10:00,21:00,1,true
+840,It,Czech Republic,expensive,NoHo,10:00,21:00,2,true
+841,Zamit,Philippines,expensive,Windsor Terrace,10:00,21:00,5,false
+842,Bytecard,Poland,medium,Financial District,10:00,21:00,2,true
+843,Sonsing,Portugal,medium,NoHo,10:00,21:00,4,false
+844,Sub-Ex,France,expensive,Upper West Side,10:00,21:00,2,false
+845,Fixflex,Palestinian Territory,cheap,Williamsburg,10:00,21:00,1,false
+846,Veribet,Philippines,expensive,Nolita,10:00,21:00,4,false
+847,Tres-Zap,Brazil,expensive,Lower East Side,10:00,21:00,3,true
+848,Ventosanzap,Rwanda,cheap,Chinatown,10:00,21:00,2,true
+849,Zathin,United States,expensive,Upper West Side,10:00,21:00,5,true
+850,It,France,cheap,Two Bridges,10:00,21:00,4,true
+851,Ventosanzap,Macedonia,cheap,Bronx Park,10:00,21:00,4,true
+852,Bitchip,China,medium,Park Slope,10:00,21:00,2,true
+853,Vagram,France,medium,Inwood,10:00,21:00,1,true
+854,Treeflex,China,expensive,Upper West Side,10:00,21:00,5,true
+855,Asoka,China,expensive,East Village,10:00,21:00,3,false
+856,Stim,Philippines,expensive,Boerum Hill,10:00,21:00,2,true
+857,Fintone,Russia,cheap,Two Bridges,10:00,21:00,2,true
+858,Holdlamis,Indonesia,medium,South Slope,10:00,21:00,4,false
+859,Zamit,Philippines,expensive,Morningside Heights,10:00,21:00,1,false
+860,Zontrax,Italy,expensive,DUMBO,10:00,21:00,4,false
+861,Span,Brazil,cheap,Brooklyn Heights,10:00,21:00,2,true
+862,Zoolab,Honduras,cheap,Upper East Side,10:00,21:00,1,true
+863,Voltsillam,Brazil,medium,Stuyvesant Town,10:00,21:00,4,true
+864,Konklux,China,medium,Midtown,10:00,21:00,5,true
+865,Toughjoyfax,China,cheap,Stuyvesant Town,10:00,21:00,1,true
+866,Zamit,Indonesia,medium,Inwood,10:00,21:00,3,false
+867,Subin,Philippines,cheap,Flushing,10:00,21:00,5,false
+868,Konklux,China,expensive,Midtown,10:00,21:00,1,true
+869,Konklux,Portugal,expensive,Bronx Park,10:00,21:00,2,false
+870,Alpha,Indonesia,medium,Nolita,10:00,21:00,5,false
+871,Tresom,Russia,expensive,Harlem,10:00,21:00,5,false
+872,Wrapsafe,Sweden,medium,Meatpacking District,10:00,21:00,1,true
+873,Regrant,Indonesia,cheap,Coney Island,10:00,21:00,4,true
+874,Prodder,Philippines,cheap,DUMBO,10:00,21:00,4,true
+875,Job,Norway,medium,Battery Park City,10:00,21:00,3,true
+876,Cardguard,Kiribati,expensive,Cobble Hill,10:00,21:00,4,true
+877,Viva,Greece,expensive,Chinatown,10:00,21:00,5,false
+878,Subin,China,expensive,Coney Island,10:00,21:00,4,false
+879,Cardify,Kazakhstan,expensive,Yorkville,10:00,21:00,4,true
+880,Ventosanzap,Indonesia,cheap,Red Hook,10:00,21:00,2,false
+881,Fintone,Portugal,medium,Financial District,10:00,21:00,5,false
+882,It,Kenya,medium,Battery Park City,10:00,21:00,2,false
+883,Tres-Zap,Tunisia,cheap,Lower East Side,10:00,21:00,4,false
+884,Bytecard,Poland,medium,Hell's Kitchen,10:00,21:00,1,true
+885,Rank,China,medium,Tribeca,10:00,21:00,5,true
+886,Toughjoyfax,Palestinian Territory,cheap,Upper West Side,10:00,21:00,3,false
+887,Bigtax,Russia,medium,Stuyvesant Town,10:00,21:00,1,true
+888,Alphazap,China,cheap,Gowanus,10:00,21:00,1,true
+889,Mat Lam Tam,Brazil,medium,West Village,10:00,21:00,5,false
+890,Temp,Thailand,cheap,Ridgewood,10:00,21:00,5,false
+891,Otcom,China,medium,NoHo,10:00,21:00,1,true
+892,Toughjoyfax,Philippines,medium,Astoria,10:00,21:00,1,false
+893,Zontrax,Afghanistan,expensive,Queensbridge,10:00,21:00,3,false
+894,Sonair,China,medium,Astoria,10:00,21:00,1,true
+895,Zoolab,China,expensive,Gowanus,10:00,21:00,3,true
+896,Matsoft,Peru,expensive,Prospect Heights,10:00,21:00,4,true
+897,Bytecard,Portugal,medium,Jackson Heights,10:00,21:00,5,false
+898,Lotlux,Indonesia,expensive,Little Italy,10:00,21:00,1,false
+899,Fix San,Serbia,expensive,Two Bridges,10:00,21:00,5,false
+900,Zamit,Russia,medium,NoHo,10:00,21:00,3,false
+901,Alphazap,China,expensive,Greenpoint,10:00,21:00,4,false
+902,Zathin,China,cheap,Upper West Side,10:00,21:00,3,false
+903,Tin,Portugal,cheap,Carroll Gardens,10:00,21:00,2,true
+904,Keylex,Lithuania,expensive,South Slope,10:00,21:00,5,true
+905,Trippledex,Indonesia,cheap,Cobble Hill,10:00,21:00,2,false
+906,Sonair,Morocco,expensive,Jamaica,10:00,21:00,2,true
+907,Namfix,China,cheap,Upper East Side,10:00,21:00,3,false
+908,Y-find,China,expensive,Coney Island,10:00,21:00,2,true
+909,Solarbreeze,Philippines,cheap,SoHo,10:00,21:00,3,true
+910,Fix San,Indonesia,cheap,Hell's Kitchen,10:00,21:00,4,false
+911,Bytecard,Mexico,medium,Tribeca,10:00,21:00,2,false
+912,Job,Paraguay,medium,Tribeca,10:00,21:00,3,false
+913,Cardify,Philippines,cheap,West Village,10:00,21:00,4,false
+914,Solarbreeze,China,expensive,Brooklyn Heights,10:00,21:00,3,true
+915,Quo Lux,France,medium,Tribeca,10:00,21:00,3,false
+916,Konklab,Poland,cheap,Ridgewood,10:00,21:00,4,true
+917,Stim,Bosnia and Herzegovina,cheap,Boerum Hill,10:00,21:00,3,true
+918,Vagram,France,expensive,Park Slope,10:00,21:00,5,false
+919,Bitwolf,China,expensive,Brooklyn Heights,10:00,21:00,3,true
+920,Subin,Japan,cheap,Koreatown,10:00,21:00,4,false
+921,Stim,China,cheap,Queensbridge,10:00,21:00,4,true
+922,Treeflex,Brazil,expensive,Stuyvesant Town,10:00,21:00,3,false
+923,Subin,Albania,expensive,Yorkville,10:00,21:00,5,true
+924,Tresom,China,medium,Chinatown,10:00,21:00,1,false
+925,Latlux,Mongolia,cheap,Meatpacking District,10:00,21:00,4,true
+926,Flowdesk,Poland,expensive,Kips Bay,10:00,21:00,3,false
+927,Zaam-Dox,Lithuania,medium,Meatpacking District,10:00,21:00,3,false
+928,Tempsoft,Portugal,expensive,Williamsburg,10:00,21:00,4,false
+929,Bitchip,Egypt,medium,Bed-Stuy,10:00,21:00,2,true
+930,It,Greece,cheap,Kips Bay,10:00,21:00,1,false
+931,Zoolab,Finland,expensive,Harlem,10:00,21:00,1,true
+932,Sonsing,France,cheap,Fort Greene,10:00,21:00,4,true
+933,Opela,Canada,expensive,Columbia Street Waterfront District,10:00,21:00,5,false
+934,Opela,Indonesia,cheap,Harlem,10:00,21:00,1,false
+935,Holdlamis,China,medium,Cobble Hill,10:00,21:00,3,true
+936,Fix San,Indonesia,expensive,Williamsburg,10:00,21:00,5,false
+937,Hatity,Indonesia,cheap,Nolita,10:00,21:00,3,true
+938,Bytecard,Poland,cheap,Hell's Kitchen,10:00,21:00,4,false
+939,Mat Lam Tam,Uzbekistan,medium,Fort Greene,10:00,21:00,4,true
+940,Viva,Russia,cheap,Yorkville,10:00,21:00,5,false
+941,Bigtax,Morocco,cheap,Greenpoint,10:00,21:00,5,false
+942,Asoka,China,cheap,Columbia Street Waterfront District,10:00,21:00,4,true
+943,Duobam,Indonesia,expensive,Chinatown,10:00,21:00,3,true
+944,Tampflex,China,expensive,SoHo,10:00,21:00,1,false
+945,Holdlamis,Russia,expensive,Jamaica,10:00,21:00,5,false
+946,Opela,China,cheap,Red Hook,10:00,21:00,3,false
+947,Sonair,China,expensive,Columbia Street Waterfront District,10:00,21:00,2,true
+948,Bitwolf,Brazil,medium,Ridgewood,10:00,21:00,5,true
+949,Biodex,China,medium,Bed-Stuy,10:00,21:00,2,true
+950,Matsoft,Brazil,cheap,Sunset Park,10:00,21:00,4,true
+951,Subin,Brazil,cheap,Ridgewood,10:00,21:00,1,true
+952,Redhold,Brazil,medium,Financial District,10:00,21:00,1,true
+953,Daltfresh,Cape Verde,expensive,Harlem,10:00,21:00,5,true
+954,Quo Lux,Philippines,cheap,Nolita,10:00,21:00,5,false
+955,Cardify,Hungary,medium,Little Italy,10:00,21:00,4,true
+956,Home Ing,Indonesia,cheap,Upper West Side,10:00,21:00,4,false
+957,Overhold,France,expensive,Carroll Gardens,10:00,21:00,3,true
+958,Tin,Namibia,medium,Financial District,10:00,21:00,1,true
+959,Bitwolf,Cyprus,expensive,Morningside Heights,10:00,21:00,3,true
+960,Rank,Philippines,cheap,Fort Greene,10:00,21:00,5,false
+961,Regrant,Brazil,expensive,Windsor Terrace,10:00,21:00,4,true
+962,Solarbreeze,Sweden,medium,Williamsburg,10:00,21:00,1,false
+963,Vagram,Bulgaria,expensive,Greenpoint,10:00,21:00,2,true
+964,Home Ing,Georgia,medium,Williamsburg,10:00,21:00,2,true
+965,Regrant,North Korea,cheap,Nolita,10:00,21:00,5,false
+966,Tampflex,China,cheap,Flushing,10:00,21:00,2,true
+967,Lotlux,Indonesia,expensive,Fort Greene,10:00,21:00,5,false
+968,Y-Solowarm,China,cheap,Murray Hill,10:00,21:00,3,false
+969,Home Ing,United States,expensive,East Harlem,10:00,21:00,4,false
+970,Treeflex,Philippines,cheap,Nolita,10:00,21:00,5,true
+971,Voltsillam,Ghana,cheap,DUMBO,10:00,21:00,4,false
+972,Stronghold,Philippines,medium,Cobble Hill,10:00,21:00,2,true
+973,Quo Lux,Gabon,medium,Koreatown,10:00,21:00,5,false
+974,Bitwolf,Albania,cheap,Morningside Heights,10:00,21:00,4,true
+975,Kanlam,Japan,cheap,Stuyvesant Town,10:00,21:00,3,false
+976,Hatity,Ukraine,expensive,St. George,10:00,21:00,3,false
+977,Zontrax,South Africa,medium,Chinatown,10:00,21:00,1,true
+978,Flexidy,Philippines,cheap,Red Hook,10:00,21:00,3,false
+979,Bamity,Ecuador,medium,DUMBO,10:00,21:00,1,false
+980,Bitwolf,Malaysia,medium,Upper East Side,10:00,21:00,4,true
+981,Regrant,Colombia,expensive,Stuyvesant Town,10:00,21:00,1,false
+982,Ventosanzap,Russia,expensive,Prospect Heights,10:00,21:00,4,true
+983,Bitchip,Russia,expensive,Fort Greene,10:00,21:00,3,true
+984,Stim,Luxembourg,medium,Fort Greene,10:00,21:00,4,false
+985,Flexidy,Indonesia,medium,Hell's Kitchen,10:00,21:00,4,true
+986,Y-Solowarm,Malawi,expensive,Bronx Park,10:00,21:00,5,false
+987,Fixflex,Peru,medium,Tribeca,10:00,21:00,5,true
+988,Toughjoyfax,France,expensive,Gowanus,10:00,21:00,4,false
+989,Tampflex,Philippines,expensive,Bronx Park,10:00,21:00,1,false
+990,Lotlux,Belarus,cheap,Hell's Kitchen,10:00,21:00,2,false
+991,Greenlam,China,cheap,Gowanus,10:00,21:00,3,true
+992,Trippledex,Malta,medium,Harlem,10:00,21:00,3,false
+993,Cookley,Malaysia,medium,Inwood,10:00,21:00,4,false
+994,Matsoft,China,cheap,Financial District,10:00,21:00,5,false
+995,Holdlamis,Portugal,cheap,Prospect Heights,10:00,21:00,1,false
+996,Stim,Philippines,medium,Prospect Heights,10:00,21:00,2,false
+997,Asoka,Lithuania,cheap,Nolita,10:00,21:00,2,false
+998,Redhold,Poland,cheap,Astoria,10:00,21:00,2,false
+999,Tempsoft,Philippines,cheap,Sunset Park,10:00,21:00,4,false
+1000,Keylex,Portugal,cheap,Nolita,10:00,21:00,2,true
